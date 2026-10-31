@@ -4,8 +4,8 @@ body {
     margin: 0;
     background-color: #f4f6f9;
 }
-#about {
-    background-image: url('../assets/images/about-me.png');
+.about {
+    background-image: url('../assets/images/about.png');
     background-size: cover;
     background-position: center;
     padding: 60px 20px;
